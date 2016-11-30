@@ -1,1 +1,7 @@
 C:\Users\local\Desktop\biblioteka\biblioteka\biblioteka\bin\Debug\biblioteka.exe.config
+C:\Users\Piotrek\Desktop\Cw7\8\biblioteka-master\biblioteka\biblioteka\bin\Debug\biblioteka.exe.config
+C:\Users\Piotrek\Desktop\Cw7\8\biblioteka-master\biblioteka\biblioteka\obj\Debug\biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\Piotrek\Desktop\Cw7\8\biblioteka-master\biblioteka\biblioteka\bin\Debug\biblioteka.exe
+C:\Users\Piotrek\Desktop\Cw7\8\biblioteka-master\biblioteka\biblioteka\bin\Debug\biblioteka.pdb
+C:\Users\Piotrek\Desktop\Cw7\8\biblioteka-master\biblioteka\biblioteka\obj\Debug\biblioteka.exe
+C:\Users\Piotrek\Desktop\Cw7\8\biblioteka-master\biblioteka\biblioteka\obj\Debug\biblioteka.pdb

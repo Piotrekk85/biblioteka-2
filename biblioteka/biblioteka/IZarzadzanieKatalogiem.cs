@@ -8,19 +8,9 @@ namespace biblioteka
 {
     interface IZarzadzanieKatalogiem
     {
-
-        void WyszukajPoTytule()
-        {
-
-        }
-        void WyszukajPoId() 
-        {
-
-        }
-
-        void WypiszWszystko()
-        {
-
-        }
+        //tu dodajemy tylko deklarację (bez nawiasów klamrowych), przy dwóch metoda przydałyby się parametry
+        void WyszukajPoTytule(string tytuł);
+        void WyszukajPoId(int id);
+        void WypiszWszystko();
     }
 }

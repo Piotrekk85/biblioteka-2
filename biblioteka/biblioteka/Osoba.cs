@@ -21,7 +21,7 @@ namespace biblioteka
             this.nazwisko = nazwisko;
         }
 
-        protected internal void WypiszInfo()
+        protected internal void WypiszInfo() //czy to potrzebne?
         {
             Console.WriteLine("Imię i nazwisko: {0} {1}", imie, nazwisko);
         }
